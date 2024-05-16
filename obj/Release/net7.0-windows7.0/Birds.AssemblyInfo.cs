@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Birds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b2411a1585233c94495674ccfef02607b5fd07")]
 [assembly: System.Reflection.AssemblyProductAttribute("Birds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Birds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

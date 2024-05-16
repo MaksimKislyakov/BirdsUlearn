@@ -163,3 +163,4 @@ D:\Stone\obj\Debug\net7.0-windows7.0\refint\Birds.dll
 D:\Stone\obj\Debug\net7.0-windows7.0\Birds.pdb
 D:\Stone\obj\Debug\net7.0-windows7.0\Birds.genruntimeconfig.cache
 D:\Stone\obj\Debug\net7.0-windows7.0\ref\Birds.dll
+D:\Stone\obj\Debug\net7.0-windows7.0\Birds.sourcelink.json

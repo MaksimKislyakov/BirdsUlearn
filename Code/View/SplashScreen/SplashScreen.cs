@@ -12,7 +12,7 @@ namespace Birds.Code.View.SplashScreen
         static Color color;
         public static SoundEffect MenuClick;
         public static SpriteFont Font { get; set; }
-        static Vector2 textPosition = new(500, 100);
+        static Vector2 textPosition = new(600, 150);
         public static Song menuSong;
         public static Texture2D startButtonTexture;
         public static Texture2D exitButtonTexture;
